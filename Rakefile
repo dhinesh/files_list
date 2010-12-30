@@ -16,7 +16,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/dhinesh/files_list"
   gem.license = "MIT"
   gem.summary = %Q{my first project}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.description = %Q{longer description of your gem}
   gem.email = "dhinesh17588@gmail.com"
   gem.authors = ["dhinesh"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
